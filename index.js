@@ -72,7 +72,6 @@ async function geocode (data) {
     const rowIndex = itemsWithoutCoordinates[index].rowIndex
 
     if (result.error) {
-      console.log(result)
       return {
         rowIndex,
         source,
