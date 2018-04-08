@@ -1,0 +1,7 @@
+node_modules
+.apprc
+*.log
+*.cache.json
+output.csv
+source.csv
+source.txt

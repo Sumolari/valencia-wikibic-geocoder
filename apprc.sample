@@ -1,0 +1,2 @@
+[geocoding.google.api]
+  key = PUT_YOUR_GOOGLE_GEOCODING_API_HERE
